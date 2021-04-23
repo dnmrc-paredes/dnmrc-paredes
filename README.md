@@ -10,6 +10,8 @@
 - JavaScript
 - React JS
 - Node JS
+- Typescript
+- GraphQL
 - Git
 - NPM
 
