@@ -15,4 +15,4 @@
 - Git
 - NPM
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TmTanky&hide=html,ejs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TmTanky&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
