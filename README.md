@@ -9,6 +9,7 @@
 - CSS3
 - JavaScript
 - React JS
+- Vue JS
 - Node JS
 - Typescript
 - GraphQL
