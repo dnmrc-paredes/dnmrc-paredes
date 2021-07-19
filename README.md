@@ -13,6 +13,7 @@
 - Node JS
 - Typescript
 - GraphQL
+- Sass
 - Git
 - NPM
 
