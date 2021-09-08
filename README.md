@@ -11,8 +11,9 @@
 - React JS
 - Vue JS
 - Node JS
-- Typescript
+- TypeScript
 - GraphQL
+- React Native (Expo)
 - Sass
 - Git
 - NPM
